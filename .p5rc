@@ -1,0 +1,10 @@
+{
+  "name": "lab3",
+  "projects": [
+    "2DRotation",
+    "2DScaling",
+    "2Dtranslation",
+    "MidPointCircleDA",
+    "MidPointEllipseDA"
+  ]
+}
